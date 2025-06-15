@@ -1,5 +1,5 @@
 
-# Networked Tic-Tac-Toe Game using Python Sockets
+# Tic-Tac-Toe Game using Python Sockets
 
 A simple 2-player Tic-Tac-Toe game that works over a local network using Python’s `socket` and `threading` modules. You can either host a game or join one as a client.
 
